@@ -8,4 +8,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/iiProductionz/Floater
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RomanIsAFuckBoy/Romans-TOH-Crusher/master/Vermillion", true))()
 
---Script 4th is here:
+--Script 4th is here:loadstrig(game:Httpget("https://raw.githubusercontent.com/0123liskigi/TohGui/work/Made/by/Roblox-Exploiter"))()
